@@ -6,21 +6,21 @@ import CountUp from "react-countup";
 
 const achievementsList: AchievementProps[] = [
   {
-    metric: "Startups and co-founders on-board",
+    metric: "Startups and founders on-board",
     value: "15",
   },
   {
-    metric: "Pitch decks & and one-pagers",
+    metric: "Fundable pitch decks & and one-pagers",
     value: "15",
   },
   {
-    metric: "Open-source deployments for members",
+    metric: "Open-source deployments",
     value: "500",
     postfix: "+",
   },
   {
     metric: "VC capital",
-    value: "$0",
+    value: "0",
   }
 ];
 
