@@ -364,7 +364,7 @@ export const educationData = {
     {
       title: 'Stable Diffusion',
       duration: 'AI',
-    }
+    },
     {
       title: 'MiroTalk',
       duration: 'Web-Conferencing',
@@ -372,7 +372,7 @@ export const educationData = {
     {
       title: 'Moodle',
       duration: 'Learning Management',
-    }
+    },
     {
       title: 'WordPress',
       duration: 'Websites',
@@ -380,7 +380,7 @@ export const educationData = {
     {
       title: 'Element - Matrix',
       duration: 'Chat',
-    }
+    },
     {
       title: 'Authentik',
       duration: 'Security',
@@ -388,7 +388,7 @@ export const educationData = {
     {
       title: 'VaultWarden',
       duration: 'Password Management',
-    }
+    },
     {
       title: 'Plausible',
       duration: '2021-25',
@@ -396,7 +396,7 @@ export const educationData = {
     {
       title: 'n8n',
       duration: 'Automation',
-    }
+    },
     {
       title: 'Tortoise-TTS',
       duration: 'Text-to-Speech',
@@ -404,7 +404,7 @@ export const educationData = {
     {
       title: 'Flame',
       duration: 'Dashboards',
-    }
+    },
     {
       title: 'Paperless-ngx',
       duration: 'Document Management',
@@ -412,27 +412,27 @@ export const educationData = {
     {
       title: 'Silverbullet',
       duration: 'Note-taking',
-    }
+    },
     {
       title: 'Fasten',
       duration: 'Medical Records',
-    }
+    },
     {
       title: 'Mealie',
       duration: 'Recipe Management',
-    }
+    },
     {
       title: 'MeshCentral',
       duration: 'Remote Access',
-    }
+    },
     {
       title: 'DocAssemble',
       duration: 'Guided Interviews',
-    }
+    },
     {
       title: 'WikiJS',
       duration: 'Wiki',
-    }
+    },
     {
       title: 'Ghost',
       duration: 'Blogging',
