@@ -2,73 +2,73 @@ import { NavlinksProps, ProjectProps } from '../types'
 
 export const aboutData = {
   title: 'About Me',
-  description: 'I have a B-Tech in Computer Science (2021-25) and Intermediate (2019-21).',
+  description: 'We help startups get going on the right footing.  Upon a core foundation of free and self-hostable open-source technologies.',
   info: [
     {
       fieldName: 'Name',
-      fieldValue: 'Priyanshu'
+      fieldValue: 'OnePlace'
     },
     {
       fieldName: 'Phone',
-      fieldValue: '7071915785'
+      fieldValue: '8885101788'
     },
     {
       fieldName: 'Email',
-      fieldValue: 'work.priyanshu085@gmail.com'
+      fieldValue: 'support@oneplace.press'
     },
     {
       fieldName: 'Location',
-      fieldValue: 'India'
+      fieldValue: 'Chicago'
     },
     {
       fieldName: 'Languages',
-      fieldValue: 'English, Hindi'
+      fieldValue: 'English, German, Chinese, Spanish'
     },
     {
       fieldName: 'Hobbies',
-      fieldValue: 'Coding, Reading'
+      fieldValue: '3D mapping, Aerial Photography'
     },  
     {
       fieldName: 'Interests',
-      fieldValue: 'Data Science, AI'
+      fieldValue: 'Self-Hosting, Open-Source Technology'
     },
     {
-      fieldName: 'Freelance',
-      fieldValue: 'Available'
+      fieldName: 'Startup Building, Consulting, Direct Hire',
+      fieldValue: 'All Available'
     }
   ]
 }
 
 export const experienceData = {
-  title: 'experience',
+  title: 'our capabilities',
   description: 'I have worked as a web developer at XYZ company for 2 years.',
   items: [
     {
       id: 1,
-      title: "Frontend Web Intern",
-      company: "JarGoan",
-      duration: "05/2024 - 06/2024",
+      title: "Digital Marketing",
+      company: "Worldwide",
+      duration: "WebOps",
       description: "Improved platform usability by 20.6%, increased user engagement by 26.53%, and led UI design initiatives.",
     },
     {
       id: 2,
-      title: "AI Intern",
-      company: "Tublian",
-      duration: "04/2024 - 06/2024",
+      title: "Deployments",
+      company: "Worldwide",
+      duration: "DevOps",
       description: "Enhanced AI proficiency, crafted a chatbot increasing user interaction by 50%, and actively participated in AI sessions.",
     },
     {
       id: 3,
-      title: "Open Source Contributor",
-      company: "Tubalian",
-      duration: "09/2023 - 11/2023",
+      title: "Open-Source",
+      company: "Worldwide",
+      duration: "Hosting",
       description: "Outperformed 91% of users, engaged in AI challenges, and enhanced AI technology proficiency by 30%.", 
     },
     {
       id: 4,
-      title: "Open Source Contributor",
-      company: "Hacktoberfest 2023",
-      duration: "09/2023 - 10/2023",
+      title: "AI",
+      company: "Worldwide",
+      duration: "Automation",
       description: "Contributed 4 PRs accepted in open source projects, collaborated with global developers, improving community engagement.",
     }
   ]
@@ -134,7 +134,7 @@ export const Project_Data: ProjectProps[] = [
   {
     id: 5,
     title: "CodexSphere",
-    description: "CodexSphere is a web platform uniting book lovers. Built with React JS, MongoDB, and Tailwind CSS, it allows seamless management of personal book collections. Add, explore, and dive into a world of literature with CodexSphere - where your bookshelf transforms into a gateway to endless literary journeys",
+    description: "CodexSphere is a booty web platform uniting book lovers. Built with React JS, MongoDB, and Tailwind CSS, it allows seamless management of personal book collections. Add, explore, and dive into a world of literature with CodexSphere - where your bookshelf transforms into a gateway to endless literary journeys",
     imgUrl: "/images/projects/5.png",
     tag: ["All","Web"],
     gitUrl: "",
@@ -354,17 +354,90 @@ export const navLinks: NavlinksProps[] = [
   ]
 
 export const educationData = {
-  title: 'education',
-  description: 'I have a B-Tech in Computer Science (2021-25) and Intermediate (2019-21).',
+  title: 'technologies',
+  description: 'We work with a whole suite of self-hostable open-source technologies.  Perfect for any startup or digital endeavor.',
   items: [
     {
-      title: 'B-Tech Computer Science',
+      title: 'Vikunja',
+      duration: 'Project Management',
+    },
+    {
+      title: 'Stable Diffusion',
+      duration: 'AI',
+    }
+    {
+      title: 'MiroTalk',
+      duration: 'Web-Conferencing',
+    },
+    {
+      title: 'Moodle',
+      duration: 'Learning Management',
+    }
+    {
+      title: 'WordPress',
+      duration: 'Websites',
+    },
+    {
+      title: 'Element - Matrix',
+      duration: 'Chat',
+    }
+    {
+      title: 'Authentik',
+      duration: 'Security',
+    },
+    {
+      title: 'VaultWarden',
+      duration: 'Password Management',
+    }
+    {
+      title: 'Plausible',
       duration: '2021-25',
     },
     {
-      title: 'Intermediate',
-      duration: '2019-21',
+      title: 'n8n',
+      duration: 'Automation',
     }
+    {
+      title: 'Tortoise-TTS',
+      duration: 'Text-to-Speech',
+    },
+    {
+      title: 'Flame',
+      duration: 'Dashboards',
+    }
+    {
+      title: 'Paperless-ngx',
+      duration: 'Document Management',
+    },
+    {
+      title: 'Silverbullet',
+      duration: 'Note-taking',
+    }
+    {
+      title: 'Fasten',
+      duration: 'Medical Records',
+    }
+    {
+      title: 'Mealie',
+      duration: 'Recipe Management',
+    }
+    {
+      title: 'MeshCentral',
+      duration: 'Remote Access',
+    }
+    {
+      title: 'DocAssemble',
+      duration: 'Guided Interviews',
+    }
+    {
+      title: 'WikiJS',
+      duration: 'Wiki',
+    }
+    {
+      title: 'Ghost',
+      duration: 'Blogging',
+    }
+
   ]
 }
   
