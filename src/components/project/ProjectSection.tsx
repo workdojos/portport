@@ -13,11 +13,35 @@ const project: ProjectTagProps[] = [
     },
     {
         tag: "Web",
-        name: "Web Dev.",
+        name: "SaaS",
     },
     {
-        tag: "ML",
-        name: "Machine Learning",
+        tag: "AI",
+        name: "AI",
+    },
+    {
+        tag: "Local",
+        name: "Local",
+    },
+    {
+        tag: "Entertainment",
+        name: "Entertainment",
+    },
+    {
+        tag: "Training",
+        name: "Training",
+    },
+    {
+        tag: "Sports",
+        name: "Sports",
+    },
+    {
+        tag: "Advertising",
+        name: "Advertising",
+    },
+    {
+        tag: "Delivery",
+        name: "Delivery",
     }
 ]
 

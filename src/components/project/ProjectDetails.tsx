@@ -66,7 +66,7 @@ const ProjectDetails = ({project, isOpen ,closeModal}: ProjectDetailsProps) => {
                         <Image src={project.imgUrl} alt='project-image' fill priority className='object-contain md:w-fit md:h-fit h-20 w-[150px] self-center sm:w-fit hover:cursor-pointer rounded-lg' />
                       </div>
                       <div className='flex grid-cols-3  gap-8 mt-5 '>
-                    <Link href={!project.gitUrl?`https://github.com/Priyanshux085/${project.title}`:project.gitUrl} 
+                    <Link href={!project.gitUrl?`https://github.com/oneplacepress/${project.title}`:project.gitUrl} 
                       className='w-fit text-right text-white border-2 primary-bd
                       hover:bg-[#166466] rounded-full hover:transition-all hover:duration-300 hover:font-semibold
                       hover:ease-in-out hover:transform hover:scale-105 hover:text-black'

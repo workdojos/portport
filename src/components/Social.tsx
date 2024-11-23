@@ -12,27 +12,27 @@ const SocialLink = [
   {
     name: "Email",
     icon: <FaEnvelope />,
-    url: "mailto:work.priyanshu085@gmail.com",
+    url: "mailto:support@oneplace.press",
   },
   {
     name: "LinkedIn",
     icon: <FaLinkedin />,
-    url: "https://www.linkedin.com/in/coderx85/",
+    url: "https://www.linkedin.com/in/oneplacepress",
   },
   {
     name: "Twitter",
     icon: <FaTwitter />,
-    url: "https://twitter.com/Priyanshux085",
+    url: "https://x.com/oneplacepress",
   },
   {
     name: "Github",
     icon: <FaGithub />,
-    url: "https://github.com/coderx85",
+    url: "https://github.com/oneplacepress",
   },
   {
     name: "Reddit",
     icon: <FaReddit />,
-    url: "https://www.reddit.com/user/coderx85",
+    url: "https://www.reddit.com/user/oneplacepress",
   }
 ]
 

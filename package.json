@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "OnePlace",
   "version": "2.0.0",
   "private": true,
   "scripts": {
@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "author": {
-    "name": "Priyanshu",
-    "email": "abpriyanshu085@gmail.com"
+    "name": "OnePlace",
+    "email": "support@oneplace.press"
   },
   "license": "MIT",
   "dependencies": {

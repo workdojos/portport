@@ -11,7 +11,7 @@ export const sendEmail = async ( formData : FormData) =>{
     const formData = FormData.arguments[0];
     // const { id } = await resend.emails.send({
     //   from: 'Acme <onboarding@resend.dev>',
-    //   to: ['abpriyanshu007@gmail.com'],
+    //   to: ['support@oneplacepress.com'],
     //   subject: 'Hello world',
     //   react: ""
     // });
