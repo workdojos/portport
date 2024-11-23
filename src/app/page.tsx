@@ -27,15 +27,15 @@ const HeroSection = () => {
                         startups | Co-Founder Matching     
                     </span>
                     <h1 className='text-white text-4xl mb-4 sm:text-5xl lg:text-4xl text-extrabold'>
-                        {"I'm "}
+                        {"A "}
                         <FlipWords
-                            words={['OnePlace', 'to', 'Build', 'Startups']}
+                            words={['One', 'Stop', 'Shop']}
                             duration={2000}
                             className='text-accent text-2xl/normal sm:text-3xl/normal md:text-4xl/normal lg:text-5xl/normal'
                         />
                     </h1>
                     <p className='max-w-[500px] pt-2 my-4 text-white/80'> 
-                        We help startups and founders use free and open-source technology.
+                        We help startups and founders use free and open-source technology to get going quick.  The art of the boot-strapped startup is within reach for all (including non-developers).
                     </p>
                     <div className='flex flex-col xl:flex-row gap-8 items-center'>
                         <Link 
@@ -51,7 +51,7 @@ const HeroSection = () => {
                                 size='lg'
                                 className='uppercase items-center gap-2 text-white border-accent rounded-full hover:bg-accent transition-all duration-300 ease-in-out ' 
                             >
-                                Check out our member startups <FiDownload className='text-xl text-accent'/>
+                                Download our Deck <FiDownload className='text-xl text-accent'/>
                             </Button>
                         </Link>
                         <Link href="/contact/#contact"> 

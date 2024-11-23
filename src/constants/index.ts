@@ -2,7 +2,7 @@ import { NavlinksProps, ProjectProps } from '../types'
 
 export const aboutData = {
   title: 'About Us',
-  description: 'We help startups get going on the right footing.  Upon a core foundation of free and self-hostable open-source technologies.',
+  description: 'We help startups, start up right, using free and open-source tech.',
   info: [
     {
       fieldName: 'Name',
@@ -473,22 +473,42 @@ export const educationData = {
 export const services = [
   {
     num: "01",
-    title: "Full Stack Web Development",
-    description: "Create responsive and user-friendly interfaces, ensuring optimal performance and user experience.",
+    title: "Startup Full Stack Web Development",
+    description: "We've perfected the art of the boot-strapped startup.  Thanks in no small part to free and open-source technology.  There is a way to bringing your ideas to life without breaking the bank.",
   },
   {
     num: "02",
-    title: "Backend Development and Database Management",
-    description: "Develop robust backend systems to support your web applications and services.",
+    title: "Startup Backend Development and Database Management",
+    description: "From front-end to back-end, our growing co-founder team covers all the bases covered.  Build a team through our growing community.",
   },
   {
     num: "03",
-    title: "DevOps Implementation",
-    description: "I can help you rank your website on the first page of Google.",
+    title: "Startup DevOps Implementation",
+    description: "DevOps is about quick deployments.  Something we've collectively spent a decade refining (in the challenging open-soucre space to boot).",
   },
   {
     num: "04",
-    title: "UI/UX Design",
-    description: "Lead UI design initiatives to enhance platform usability and user satisfaction.",
+    title: "Startup UI/UX Design",
+    description: "Our growing team of co-founders have amazing design skills throughout both the physical and digital worlds.",
+  },
+  {
+    num: "05",
+    title: "AI Automation",
+    description: "Create responsive and user-friendly interfaces, ensuring optimal performance and user experience.",
+  },
+  {
+    num: "06",
+    title: "AI Animation",
+    description: "Open-source AI has taught us a thing or two.  For one how to save money as any startup should.",
+  },
+  {
+    num: "07",
+    title: "Youtube & Social Media",
+    description: "From audio to video to livestreaming across all media.  Make your startup the ultimate influencer.",
+  },
+  {
+    num: "08",
+    title: "Digital Media & Advertising",
+    description: "From billboards to tablets on headrests in Uber cars, we deliver unique opportunities for outreach to hard-to-reach crowds.",
   }
 ]

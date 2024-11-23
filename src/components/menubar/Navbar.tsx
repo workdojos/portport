@@ -14,7 +14,7 @@ const Navbar = () => {
     <nav className="py-8 xl:12 text-white ">
       <div className="container mx-auto flex justify-between items-center">
         <Link href={'/'} className="text-3xl group font-semibold group-hover:text-accent">
-          Priyanshu <span className="text-accent group-hover:text-white">.</span>
+          OnePlace <span className="text-accent group-hover:text-white">.</span>
         </Link>
         <div className="mobile-menu mt-8 block md:hidden">
           {!navbarOpen ? (
