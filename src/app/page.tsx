@@ -24,7 +24,7 @@ const HeroSection = () => {
                 {/* Text Section */}
                 <div className='text-center xl:text-left order-2 xl:order-none'>
                     <span className='text-lg my-4 xl:text-left'>
-                        Software Developer | Web Developer     
+                        startups | Co-Founder Matching     
                     </span>
                     <h1 className='text-white text-4xl mb-4 sm:text-5xl lg:text-4xl text-extrabold'>
                         {"I'm "}
@@ -35,7 +35,7 @@ const HeroSection = () => {
                         />
                     </h1>
                     <p className='max-w-[500px] pt-2 my-4 text-white/80'> 
-                        A passionate web developer skilled in front-end and back-end technologies. With experience in React, Node.js, and DevOps tools, I've led UI design projects, enhanced user engagement, and streamlined workflows. I love contributing to open-source projects and continuously learning to drive innovative web solutions.
+                        We help startups and founders use free and open-source technology.
                     </p>
                     <div className='flex flex-col xl:flex-row gap-8 items-center'>
                         <Link 
@@ -51,7 +51,7 @@ const HeroSection = () => {
                                 size='lg'
                                 className='uppercase items-center gap-2 text-white border-accent rounded-full hover:bg-accent transition-all duration-300 ease-in-out ' 
                             >
-                                Checkout My CV <FiDownload className='text-xl text-accent'/>
+                                Check out our member startups <FiDownload className='text-xl text-accent'/>
                             </Button>
                         </Link>
                         <Link href="/contact/#contact"> 
