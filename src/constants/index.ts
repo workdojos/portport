@@ -44,28 +44,28 @@ export const experienceData = {
   description: 'I have worked as a web developer at XYZ company for 2 years.',
   items: [
     {
-      id: 1,
+      id: 4,
       title: "Digital Marketing",
       company: "Worldwide",
       duration: "WebOps",
       description: "Improved platform usability by 20.6%, increased user engagement by 26.53%, and led UI design initiatives.",
     },
     {
-      id: 2,
+      id: 5,
       title: "Deployments",
       company: "Worldwide",
       duration: "DevOps",
       description: "Enhanced AI proficiency, crafted a chatbot increasing user interaction by 50%, and actively participated in AI sessions.",
     },
     {
-      id: 3,
+      id: 6,
       title: "Open-Source",
       company: "Worldwide",
       duration: "Hosting",
       description: "Outperformed 91% of users, engaged in AI challenges, and enhanced AI technology proficiency by 30%.", 
     },
     {
-      id: 4,
+      id: 7,
       title: "AI",
       company: "Worldwide",
       duration: "Automation",
@@ -133,7 +133,7 @@ export const Project_Data: ProjectProps[] = [
   // },
 
   {
-    id: 14,
+    id: 8,
     title: "GoPinIt",
     description: "GoPinit is an innovative platform, a mobile app creating a HUB for outdoor advertisers and their customers to connect and do business better!",
     imgUrl: "/images/projects/gopinit.png",
@@ -147,7 +147,7 @@ export const Project_Data: ProjectProps[] = [
     duration: "1 year"
   },
   {
-    id: 7,
+    id: 9,
     title: "GoRaqt",
     description: "Access the best racquet & sports gear right where the action is. Courtside.",
     imgUrl: "/images/projects/goraqt.png",
@@ -161,7 +161,7 @@ export const Project_Data: ProjectProps[] = [
     duration: "4 months"
   },
   {
-    id: 15,
+    id: 10,
     title: "Homestalgia",
     description: "Every home has a history that goes untold when you buy it. Our mission is to change that, to tell the stories before they’re lost - to create a living record of the places we live, how our homes define us and how we define them.",
     imgUrl: "/images/projects/homestalgia.png",
@@ -175,7 +175,7 @@ export const Project_Data: ProjectProps[] = [
     duration: "2 months",
   },
   {
-    id: 16,
+    id: 11,
     title: "Tech Leadership Lab",
     description: "On a mission to solve the SDGs in TIME",
     imgUrl: "/images/projects/tll.png",
@@ -189,7 +189,7 @@ export const Project_Data: ProjectProps[] = [
     duration: "6 months",
   },
   {
-    id: 17,
+    id: 12,
     title: "TurboTabs",
     description: "We let you build fully customized newsletters for yourself so that you can get the information you need from the internet,  without the distractions.",
     imgUrl: "/images/projects/turbotabs.png",
@@ -203,7 +203,7 @@ export const Project_Data: ProjectProps[] = [
     duration: "3 weeks",
   },
   {
-    id: 18,
+    id: 13,
     title: "Voucher",
     description: "Stake Game Simulation is a project that simulates a game involving stakes and outcomes based on random patterns. The project includes frontend and backend components to create a visual representation of the game simulation.",
     imgUrl: "/images/projects/voucher.png",
@@ -217,7 +217,7 @@ export const Project_Data: ProjectProps[] = [
     duration: "5 months",
   },
   {
-    id: 19,
+    id: 14,
     title: "The Manifesto",
     description: "Startup ecosystem transformation concept.",
     imgUrl: "/images/projects/balls.png",
@@ -231,7 +231,7 @@ export const Project_Data: ProjectProps[] = [
     duration: "3 years",
   },
   {
-    id: 20,
+    id: 15,
     title: "Where in the Fair",
     description: "WitF empowers customers to have their best day at their town's temporary event. Search for and save their favorite spots, and quickly locate them on a map.",
     imgUrl: "/images/projects/fair.png",
@@ -245,7 +245,7 @@ export const Project_Data: ProjectProps[] = [
     duration: "5 months",
   },
   {
-    id: 22,
+    id: 16,
     title: "The Slicing Pie",
     description: "Slicing Pie is a universal, one-size-fits all model that creates a perfectly fair equity split in an early-stage, bootstrapped startup company.",
     imgUrl: "/images/projects/slice.png",
@@ -259,7 +259,7 @@ export const Project_Data: ProjectProps[] = [
     duration: "1 year",
   },
   {
-    id: 6,
+    id: 17,
     title: "25care",
     description: "Our platform brings all the services right to your place. This saves time and hassle searching for and booking different companies and service providers.",
     imgUrl: "/images/projects/25care.png",
@@ -273,7 +273,7 @@ export const Project_Data: ProjectProps[] = [
     duration: "1 month"
   },
   {
-    id: 11,
+    id: 18,
     title: "Delivit",
     description: "Pedaling towards something big! Exciting things are in motion at Delivit. We are gearing up to revolutionize the way you experience deliveries.",
     imgUrl: "/images/projects/delivit.png",
@@ -287,7 +287,7 @@ export const Project_Data: ProjectProps[] = [
     duration: "3 months",
   },
   {
-    id: 8,
+    id: 19,
     title: "Ancestry Host",
     description: "The open-source ancestry.",
     imgUrl: "/images/projects/ancestry.png",
@@ -301,7 +301,7 @@ export const Project_Data: ProjectProps[] = [
     duration: "2 months",
   },
   {
-    id: 9,
+    id: 20,
     title: "WorkDojos",
     description: "Build any business with free and open-source technology.",
     imgUrl: "/images/projects/dojos.png",
@@ -315,7 +315,7 @@ export const Project_Data: ProjectProps[] = [
     duration: "2 years",
   },
   { 
-    id: 13,
+    id: 21,
     title: "BFFL.ai",
     description: "Where AI goes to meet humanity.",
     imgUrl: "/images/projects/bffl.png",
@@ -329,7 +329,7 @@ export const Project_Data: ProjectProps[] = [
     duration: "3 months",
   },
   {
-    id: 12,
+    id: 22,
     title: "FaastX",
     description: "Our company offers a frugal alternative to traditional apps like Uber eats, designed for local businesses. Our service provides a low-cost digital focusing on autonomy and fairness, we empower local businesses, especially in rural areas, to succeed in the digital economy.",
     imgUrl: "/images/projects/faastx.png",
