@@ -154,16 +154,16 @@ const ContactPage = () => {
                 >
                   <SelectGroup>
                     <SelectLabel>Role</SelectLabel>
-                    <SelectItem value="CEO">UI/UX Designer</SelectItem>
+                    <SelectItem value="CEO">CEO</SelectItem>
                     <SelectItem value="Software Engineer">Software Engineer/SelectItem>
-                    <SelectItem value="Digital Marketerr">Digital Marketerr</SelectItem>
+                    <SelectItem value="Digital Marketer">Digital Marketerr</SelectItem>
                     <SelectItem value="Growth Hacker">Growth Hacker</SelectItem>
                     <SelectItem value="Fullstack Developer">Fullstack Developer</SelectItem>
                     <SelectItem value="Sales">Sales</SelectItem>
-                    <SelectItem value="Design">Fullstack Developer</SelectItem>
-                    <SelectItem value="Content Creation">Fullstack Developer</SelectItem>
-                    <SelectItem value="The Arts">Fullstack Developer</SelectItem>
-                    <SelectItem value="Public Service">Fullstack Developer</SelectItem>
+                    <SelectItem value="UI/UX Designer">Designer</SelectItem>
+                    <SelectItem value="Content Creator">Content Creator</SelectItem>
+                    <SelectItem value="Artist">Artist</SelectItem>
+                    <SelectItem value="Public Servant">Public Servant</SelectItem>
                   </SelectGroup>
                 </SelectContent>
               </Select>

@@ -66,7 +66,7 @@ const ProjectSection = () => {
     return (
     <section className='container'>
         <h2 className='font-bold text-outline space-x-1 tracking-[5px] text-transparent text-4xl uppercase border-white border-b-2 pb-2 sm:mt-0 mt-10'>
-            Our Member Startups
+            Featured Startups
         </h2>
 
         <div className="md:hidden block mt-5 text-white">
