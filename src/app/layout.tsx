@@ -15,8 +15,8 @@ const inter = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'My Portfolio',
-  description: 'My portfolio website',
+  title: 'Startup Machine',
+  description: 'Our startup machine.',
 }
 
 export default function RootLayout({

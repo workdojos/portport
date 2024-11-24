@@ -30,7 +30,7 @@ const HeroSection = () => {
                         {"A "}
                         <FlipWords
                             words={['One', 'Shop', 'Stop']}
-                            duration={2000}
+                            duration={1000}
                             className='text-accent text-2xl/normal sm:text-3xl/normal md:text-4xl/normal lg:text-5xl/normal'
                         />
                     </h1>

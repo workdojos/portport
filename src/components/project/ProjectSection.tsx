@@ -12,7 +12,7 @@ const project: ProjectTagProps[] = [
         name: "All Projects",
     },
     {
-        tag: "Web",
+        tag: "SaaS",
         name: "SaaS",
     },
     {
