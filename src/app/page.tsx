@@ -29,7 +29,7 @@ const HeroSection = () => {
                     <h1 className='text-white text-4xl mb-4 sm:text-5xl lg:text-4xl text-extrabold'>
                         {"A "}
                         <FlipWords
-                            words={['One', 'Shop', 'Stop']}
+                            words={['One', 'Stop', 'Shop']}
                             duration={1000}
                             className='text-accent text-2xl/normal sm:text-3xl/normal md:text-4xl/normal lg:text-5xl/normal'
                         />
@@ -39,8 +39,8 @@ const HeroSection = () => {
                     </p>
                     <div className='flex flex-col xl:flex-row gap-8 items-center'>
                         <Link 
-                            href="/OnePlace.pdf" 
-                            download="https://1drv.ms/b/c/78bd1b5ec9c94cb6/EbZMycleG70ggHhV0gAAAAABlHoTLuvSEq_uWdjgf5GfPQ?e=xKyTUb" 
+                            href="/Resume.pdf" 
+                            download="/Resume.pdf" 
                             locale={false} 
                             rel="noopener noreferrer" 
                             target="_blank" 
@@ -60,7 +60,7 @@ const HeroSection = () => {
                                 size='lg'
                                 className='uppercase items-center gap-2 text-white bg-accent border-accent rounded-full hover:bg-transparent transition-all duration-300 ease-in-out ' 
                             >
-                                Hire Me 
+                                Hire Us 
                             </Button>
                         </Link>
                     </div>
