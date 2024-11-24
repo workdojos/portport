@@ -17,7 +17,7 @@ const SocialLink = [
   {
     name: "LinkedIn",
     icon: <FaLinkedin />,
-    url: "https://www.linkedin.com/in/oneplacepress",
+    url: "https://www.linkedin.com/company/oneplacepress",
   },
   {
     name: "Twitter",

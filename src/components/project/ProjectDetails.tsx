@@ -75,7 +75,7 @@ const ProjectDetails = ({project, isOpen ,closeModal}: ProjectDetailsProps) => {
                       <div className='flex gap-2 object-center my-2 px-4'>
                         <FaGithub className='content-center items-center' height={20} width={20}/>
                         <p className='md:block hidden'>
-                          GitHub Link                        
+                          LinkedIn Link                        
                         </p>
                       </div>
                     </Link>

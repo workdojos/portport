@@ -85,7 +85,7 @@ const ContactPage = () => {
               We&apos;re currently recruiting new startups, 
               taking on new founders, and always looking to grow our community. 
               Please reach out!
-              Whether you have a question, want to hire us, or just want to say hi
+              Whether you have a question, want to hire us, or just want to say HI.
               We&apos;d love to hear from you and usually respond within a half day.
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
