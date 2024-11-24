@@ -39,8 +39,8 @@ const HeroSection = () => {
                     </p>
                     <div className='flex flex-col xl:flex-row gap-8 items-center'>
                         <Link 
-                            href="/Resume.pdf" 
-                            download="Resume/OnePlace.pdf" 
+                            href="/OnePlace.pdf" 
+                            download="https://1drv.ms/b/c/78bd1b5ec9c94cb6/EbZMycleG70ggHhV0gAAAAABlHoTLuvSEq_uWdjgf5GfPQ?e=xKyTUb" 
                             locale={false} 
                             rel="noopener noreferrer" 
                             target="_blank" 
