@@ -167,7 +167,7 @@ export const Project_Data: ProjectProps[] = [
     imgUrl: "/images/projects/homestalgia2.png",
     tag: ["All","SaaS", "Local"],
     gitUrl: "https://www.linkedin.com/in/chasehoyt/",
-    previewUrl: "https://homestalgia2.com/",
+    previewUrl: "https://homestalgia.com/",
     techStack: ["Nextjs", "MongoDB", "Tailwind CSS", "TypeScript", "Authjs"],
     challengesFaced: ["Challenge 1", "Challenge 2"],
     lessonsLearned: ["Lesson 1", "Lesson 2"],
@@ -192,7 +192,7 @@ export const Project_Data: ProjectProps[] = [
     id: 12,
     title: "TurboTabs",
     description: "We let you build fully customized newsletters for yourself so that you can get the information you need from the internet,  without the distractions.",
-    imgUrl: "/images/projects/turbotabs.png",
+    imgUrl: "/images/projects/turbotabs2.png",
     tag: ["All","SaaS"],
     gitUrl: "https://www.linkedin.com/in/brian-burns-b9107921/",
     previewUrl: "https://turbotabs.com/",
@@ -313,7 +313,7 @@ export const Project_Data: ProjectProps[] = [
     lessonsLearned: ["Lesson 1", "Lesson 2"],
     contributionType: "Solo",
     duration: "4 years"
-  }
+  },
   {
     id: 21,
     title: "WorkDojos",
@@ -341,7 +341,7 @@ export const Project_Data: ProjectProps[] = [
     lessonsLearned: ["Lesson 1", "Lesson 2"],
     contributionType: "Solo",
     duration: "3 months",
-  },
+  }
 
 
   // {
