@@ -11,7 +11,7 @@ export const POST = async (req: NextRequest) =>{
     const { email, name, company, phone, message, role } = await req.json();
     const res = await resend.emails.send({
     from: 'S <support@oneplace.press>',
-    to: 'opensourceancestry@gmail.com',
+    to: 'support@oneplace.press',
     subject: `Contact for ${role} from ${name}`,
     react: React.createElement(Email, {
       email: email as string,
