@@ -61,7 +61,7 @@ const ContactPage = () => {
     }
   }
 
-return (
+  return (
     <motion.section
       initial={{ opacity: 0 }}
       animate={{ 
@@ -155,7 +155,7 @@ return (
                   <SelectGroup>
                     <SelectLabel>Role</SelectLabel>
                     <SelectItem value="CEO">CEO</SelectItem>
-                    <SelectItem value="Software Engineer">Software Engineer/SelectItem>
+                    <SelectItem value="Software Engineer">Software Engineer</SelectItem>
                     <SelectItem value="Digital Marketer">Digital Marketerr</SelectItem>
                     <SelectItem value="Growth Hacker">Growth Hacker</SelectItem>
                     <SelectItem value="Fullstack Developer">Fullstack Developer</SelectItem>
