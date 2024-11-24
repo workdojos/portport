@@ -85,8 +85,8 @@ const ContactPage = () => {
               We&apos;re currently recruiting new startups, 
               taking on new founders, and always looking to grow our community. 
               Please reach out!
-              Whether you have a question or just want to say hi, We&apos;d
-              love to hear from you and usually respond within a day.
+              Whether you have a question, want to hire us, or just want to say hi
+              We&apos;d love to hear from you and usually respond within a half day.
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <Input
@@ -154,16 +154,14 @@ const ContactPage = () => {
                 >
                   <SelectGroup>
                     <SelectLabel>Role</SelectLabel>
-                    <SelectItem value="CEO">CEO</SelectItem>
-                    <SelectItem value="Software Engineer">Software Engineer</SelectItem>
+                    <SelectItem value="Engineer">Engineer</SelectItem>
                     <SelectItem value="Digital Marketer">Digital Marketerr</SelectItem>
                     <SelectItem value="Growth Hacker">Growth Hacker</SelectItem>
-                    <SelectItem value="Fullstack Developer">Fullstack Developer</SelectItem>
+                    <SelectItem value="Developer">Developer</SelectItem>
                     <SelectItem value="Sales">Sales</SelectItem>
-                    <SelectItem value="UI/UX Designer">Designer</SelectItem>
+                    <SelectItem value="Designer / Artist">Designer / Artist</SelectItem>
                     <SelectItem value="Content Creator">Content Creator</SelectItem>
-                    <SelectItem value="Artist">Artist</SelectItem>
-                    <SelectItem value="Public Servant">Public Servant</SelectItem>
+                    <SelectItem value="Other">Other</SelectItem>
                   </SelectGroup>
                 </SelectContent>
               </Select>
