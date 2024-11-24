@@ -61,7 +61,7 @@ const ContactPage = () => {
     }
   }
 
-  return (
+return (
     <motion.section
       initial={{ opacity: 0 }}
       animate={{ 
