@@ -24,7 +24,7 @@ const HeroSection = () => {
                 {/* Text Section */}
                 <div className='text-center xl:text-left order-2 xl:order-none'>
                     <span className='text-lg my-4 xl:text-left'>
-                        startups | Co-Founder Matching     
+                        Open-Source Startup Engine | Co-Founder Matching     
                     </span>
                     <h1 className='text-white text-4xl mb-4 sm:text-5xl lg:text-4xl text-extrabold'>
                         {"A "}

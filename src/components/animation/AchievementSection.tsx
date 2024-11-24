@@ -8,10 +8,12 @@ const achievementsList: AchievementProps[] = [
   {
     metric: "Startups and founders on-board",
     value: "15",
+    postfix: "*",
   },
   {
     metric: "Fundable pitch decks & and one-pagers",
     value: "15",
+    postfix: "*",
   },
   {
     metric: "Open-source deployments",
@@ -21,6 +23,7 @@ const achievementsList: AchievementProps[] = [
   {
     metric: "VC capital",
     value: "0",
+    postfix: ".",
   }
 ];
 
