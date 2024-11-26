@@ -16,7 +16,7 @@ const inter = JetBrains_Mono({
 
 export const metadata: Metadata = {
   title: 'Startup Machine',
-  description: 'Our startup machine.',
+  description: 'The art of the boot-strapped business.',
 }
 
 export default function RootLayout({

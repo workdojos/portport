@@ -336,7 +336,7 @@ export const Project_Data: ProjectProps[] = [
     tag: ["All","AI"],
     gitUrl: "https://www.linkedin.com/in/jeffhampson/",
     previewUrl: "https://bffl.ai/",
-    techStack: ["React", "Node.js", "Express", "Gemini AI","Tailwind CSS"],
+    techStack: ["React", "Node JS", "Python", "ComfyUI", "Open-Source Generative AI"],
     challengesFaced: ["Challenge 1", "Challenge 2"],
     lessonsLearned: ["Lesson 1", "Lesson 2"],
     contributionType: "Solo",
