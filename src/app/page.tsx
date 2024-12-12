@@ -35,7 +35,7 @@ const HeroSection = () => {
                         />
                     </h1>
                     <p className='max-w-[500px] pt-2 my-4 text-white/80'> 
-                        We help startups and founders use free and open-source tech to get going quick.  The art of the boot-strapped startup is within reach for all (including non-developers).
+                        We help startups and founders use free and open-source tech to get going quick.  The art of the boot-strapped business is within reach for all (including non-developers).
                     </p>
                     <div className='flex flex-col xl:flex-row gap-8 items-center'>
                         <Link 
